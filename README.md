@@ -7,11 +7,11 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🔭 I’m currently working on **Open CV and Python**
+- 🔭 I’m currently working on **Flutter and Machine learning**
 
-- 🌱 main areas of interest **Web develpment and Deep Learning**
+- 🌱 main areas of interest **Mobile develpment and Deep Learning**
 
-- 📫 How to reach me **leonardosalinet@gmail.com**
+- 📫 How to reach me **leonardosalinet@gmail.com or 179770.upf.br**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

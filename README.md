@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Leo Salinet</h1>
+<h1 align="center">Hi 👋, I'm Leonardo Salinet</h1>
 <h3 align="center">Studant at Universidade de Passo Fundo</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=salileo1&label=Profile%20views&color=0e75b6&style=flat" alt="salileo1" /> </p>
